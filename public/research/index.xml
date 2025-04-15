@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Ze-Yi Han</title>
+    <link>http://localhost:1313/research/</link>
+      <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Researches</title>
+      <link>http://localhost:1313/research/</link>
+    </image>
+    
+    <item>
+      <title>Eco-phenotypic effects of Temperature and Nutrient Interaction</title>
+      <link>http://localhost:1313/research/temp_nut_eco-pheno/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/temp_nut_eco-pheno/</guid>
+      <description>&lt;p&gt;This project blahb;ahb;ah&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/1_TempNut/test.jpg&#34;&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Temperature alone is not enough: food-web context determines evolutionary responses to warming</title>
+      <link>http://localhost:1313/research/temp_eco_evo/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/temp_eco_evo/</guid>
+      <description>&lt;p&gt;This project blahb;ahb;ah&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/2_Temp_pred_evo&#34;&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Predator richness and prey genetic diveristy co-determin prey rapid evolution</title>
+      <link>http://localhost:1313/research/pred_rich_gv/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/pred_rich_gv/</guid>
+      <description>&lt;p&gt;This project blahb;ahb;ah&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/2_Temp_pred_evo&#34;&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

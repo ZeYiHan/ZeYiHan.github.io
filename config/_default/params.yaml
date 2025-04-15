@@ -1,0 +1,51 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: light
+  color: emerald
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    description: 'Academic website for Ze-Yi Han'
+
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Ze-Yi Han"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Ze-Yi Han'
+    license:
+      enable: true
+      allow_derivatives: false
+      allow_commercial: false
+
+# Localization
+date_format: ''
+time_format: ''
+show_date: false
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  show_date: false
+  show_metadata: false
+

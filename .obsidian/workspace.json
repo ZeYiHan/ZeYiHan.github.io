@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "b8c1bd85930c55fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f272013eee0bc97f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78144a1e6732d469",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e406c82c8863dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b4b3c89b44bf7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8a3be88844d8d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44c7ad5a4a25809e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e31a3a16f54cfaae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b576aa79e5e608e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f088080ede5cb625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78c6d3dc218565da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4003118852572b8c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6e19211cd23daaba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "412c9d3879fefceb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78144a1e6732d469",
+  "lastOpenFiles": [
+    "public/media/protists_hu_3d1b70d15a29fc9a.webp",
+    "resources/_gen/images/media/protists_hu_3d1b70d15a29fc9a.webp",
+    "assets/media/protists.jpg",
+    "assets/media/protist.jpg",
+    "assets/media/protist2.jpg",
+    "public/research/pred_rich_gv/index.html",
+    "public/research/pred_rich_gv",
+    "content/research/Pred_rich_GV/index.md",
+    "content/research/Pred_rich_GV",
+    "public/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_c1b5c1864fac19f2.webp",
+    "public/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_754f8d6269e48e3e.webp",
+    "resources/_gen/images/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_c1b5c1864fac19f2.webp",
+    "resources/_gen/images/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_754f8d6269e48e3e.webp",
+    "resources/_gen/images/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_b52bc8d7bb021e1f.png",
+    "resources/_gen/images/research/temp_eco_evo/Fig_3_Temp_eff_v3-01_hu_d11edc6caef9b6c3.png",
+    "public/2_Temp_pred_evo",
+    "static/2_Temp_pred_evo",
+    "public/untitled folder",
+    "static/untitled folder",
+    "resources/_gen/images/research/temp_eco_evo",
+    "public/research/temp_eco_evo/index.html",
+    "public/research/temp_eco_evo",
+    "content/research/Temp_eco_evo/index.md",
+    "content/publication/_index.md",
+    "content/publication/2023/_index.md",
+    "content/research/2_Temp_eco_evo/index.md",
+    "content/research/Temp_Nut_Eco-Pheno/index.md",
+    "content/research/journal-article/index.md",
+    "content/projects/journal-article/index.md",
+    "content/projects/Temp_Nut_Eco-Pheno/index.md",
+    "content/Research/Temp_Nut_Eco-Pheno/index.md",
+    "content/projects/1_tempNut/index.md",
+    "content/Research/1_tempNut/index.md",
+    "content/Research/preprint/index.md",
+    "content/Research/journal-article/index.md",
+    "content/projects/preprint/index.md",
+    "content/_index.md"
+  ]
+}
