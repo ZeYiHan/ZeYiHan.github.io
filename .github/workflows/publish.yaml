@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.136.5'
+  WC_HUGO_VERSION: '0.145.0'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -45,6 +45,8 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v5
+      with:
+          enablement: true
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
