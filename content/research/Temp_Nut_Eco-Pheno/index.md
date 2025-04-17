@@ -1,5 +1,5 @@
 ---
-title: Eco-phenotypic effects of Temperature and Nutrient Interaction
+title: Temperature and nutrient interaction affects feedbacks between body size-abundance relationships
 type: page
 reading_time: false 
 show_reading_time: false 
@@ -22,12 +22,12 @@ url_dataset: 'https://github.com/ZeYiHan/Nut_Temp_Pheno_Eco'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   filename: "Fig3_TN_EffectSize_partition.jpg" 
-  caption: "Fig 3. Han et al 2022"
+  caption: ""
   focal_point: ""
   preview_only: false
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Temperature and nutrient disportionally affect different trophic levels, and change the causal effects between body size and population dynamics.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -36,6 +36,13 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 #   Otherwise, set `projects: []`.
 ---
 
-This project blahb;ahb;ah
+<span style="font-size: smaller;">
 
-{{< figure src="/1_TempNut/test.jpg" >}}
+Warming and eutrophication are major consequences of global climate change. Their individual effects on single species are well studied. However, it is unclear how temperature and nutrient together affect species body size and abundance across trophic levels. We set up microbial food web under different temperature and nutrient treatments and tracked popoulation abundance and body size of these species over time. We found temperature and nutrient affect different trophic level disportionally, while the joint effects of temperature and nutrient more strongly affect higher trophic levels. 
+
+We also found that body size can causally drive species population dynamics, using Convergent Cross Mapping on the time series of species population abundance and body size. Temperature and nutrient affect the presence and strength of these causal relationships between body size and population dynamcis within and between species. Our research highlight the importance of incorporate phenotypic dynamics in future studies of food web responses to warming and eutrophication in a changing world. 
+</span>
+
+<div style="width: 80%; margin: auto;">
+{{< figure src="/1_TempNut/Fig5_v2_EcoPheno-01.png" >}}
+</div>

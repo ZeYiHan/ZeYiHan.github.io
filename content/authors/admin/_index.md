@@ -26,11 +26,11 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:zeyi.han@duke.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/ZeYiHan
-  - icon: brands/linkedin
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=KpHViAcAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5552-8636
@@ -43,6 +43,9 @@ interests:
 
 ## About Me
 
-I am a Ph.D. candidate in Ecology at Duke University, working under the supervision of [Dr. Jean Gibert](https://jeanpgibert.weebly.com/). My research explores how rapid phenotypic changes occurring within ecological timescales influence species interactions, food web dynamics, and evolutionary trajectories. Specifically, I investigate how global warming mediates these complex ecological interactions. My approach integrates theoretical modeling, experimental methods, bioinformatics, and data science to elucidate the mechanisms driving trait changes in species responding to constantly shifting environmental conditions.
+I am an ecologist at Duke University working with [Dr. Jean Gibert](https://jeanpgibert.weebly.com/). I am interested in how phenotypic changes within ecological timescales shape species interactions and food web dynamics, as well as species evolutionary trajectories, particularly in the context of global warming. I combine experimental approaches, theoretical modeling, bioinformatics, and data science to understand how organisms traits affect and are affected by the food web they are embeded in.
 
-Prior to joining Duke, I earned my B.S. in Biology from the College of William & Mary, where I conducted research with [Dr. Jelena Pantel](https://jhpantel.com/) on the impacts of intra- and interspecific phenotypic variation on competition coefficient.
+I received my B.S. in Biology from the College of William & Mary, where I worked with [Dr. Jelena Pantel](https://jhpantel.com/) studying how phenotypic variation within and between species affects competitive interactions.
+
+In additional to science, I am also interested in hiking, paddle boarding, watercolor, and other forms of crafts.
+
