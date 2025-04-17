@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:64323/research/temp_nut_eco-pheno/</loc>
+    <loc>http://localhost:1313/research/temp_nut_eco-pheno/</loc>
     <lastmod>2025-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64323/research/temp_eco_evo/</loc>
+    <loc>http://localhost:1313/research/temp_eco_evo/</loc>
+    <lastmod>2025-04-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/research/pred_rich_gv/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2025-04-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64323/research/pred_rich_gv/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2025-04-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64323/publication/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64323/research/</loc>
-    <lastmod>2025-04-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:64323/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64323/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:64323/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

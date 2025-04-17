@@ -44,5 +44,13 @@ sections:
     design:
       view: card
 
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        Publication list click [here](/publication/). 
+    design:
+      columns: '1'
 
 ---
