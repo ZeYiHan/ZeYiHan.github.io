@@ -28,7 +28,7 @@ image:
   preview_only: false
 
 # Summary. An optional shortened abstract.
-summary: Variations across trophic levels drive prey rapid evolution using 
+summary: Variations across trophic levels drive prey rapid evolution using _Chlamydomonas reinhardtii_ mutant library.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ze-Yi Han</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:64323/</link>
+      <atom:link href="http://localhost:64323/index.xml" rel="self" type="application/rss+xml" />
     <description>Ze-Yi Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:64323/media/icon_hu_645fa481986063ef.png</url>
       <title>Ze-Yi Han</title>
-      <link>http://localhost:1313/</link>
+      <link>http://localhost:64323/</link>
     </image>
     
     <item>
       <title>Temperature and nutrient interaction affects feedbacks between body size-abundance relationships</title>
-      <link>http://localhost:1313/research/temp_nut_eco-pheno/</link>
+      <link>http://localhost:64323/research/temp_nut_eco-pheno/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/temp_nut_eco-pheno/</guid>
+      <guid>http://localhost:64323/research/temp_nut_eco-pheno/</guid>
       <description>&lt;span style=&#34;font-size: smaller;&#34;&gt;
 &lt;p&gt;Warming and eutrophication are major consequences of global climate change. Their individual effects on single species are well studied. However, it is unclear how temperature and nutrient together affect species body size and abundance across trophic levels. We set up microbial food web under different temperature and nutrient treatments and tracked popoulation abundance and body size of these species over time. We found temperature and nutrient affect different trophic level disportionally, while the joint effects of temperature and nutrient more strongly affect higher trophic levels.&lt;/p&gt;
 &lt;p&gt;We also found that body size can causally drive species population dynamics, using Convergent Cross Mapping on the time series of species population abundance and body size. Temperature and nutrient affect the presence and strength of these causal relationships between body size and population dynamcis within and between species. Our research highlight the importance of incorporate phenotypic dynamics in future studies of food web responses to warming and eutrophication in a changing world.
 &lt;/span&gt;&lt;/p&gt;
 &lt;div style=&#34;width: 80%; margin: auto;&#34;&gt;
-&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/1_TempNut/Fig5_v2_EcoPheno-01.png&#34;&gt;
+&lt;figure&gt;&lt;img src=&#34;http://localhost:64323/1_TempNut/Fig5_v2_EcoPheno-01.png&#34;&gt;
 &lt;/figure&gt;
 
 &lt;/div&gt;</description>
@@ -30,9 +30,9 @@
     
     <item>
       <title>Food-web context determines evolutionary responses to warming</title>
-      <link>http://localhost:1313/research/temp_eco_evo/</link>
+      <link>http://localhost:64323/research/temp_eco_evo/</link>
       <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/temp_eco_evo/</guid>
+      <guid>http://localhost:64323/research/temp_eco_evo/</guid>
       <description>&lt;span style=&#34;font-size: smaller;&#34;&gt;
 &lt;p&gt;Understanding microbial responses to global warming is a pressing goal as microbes play major roles in the global carbon cycle. While the evolutionary responses have been heralded as a buffer against rapid climate change, we lack a clear understanding of how climate-driven evolution actually occurs within the complex microbial food webs in which all microbes are embedded in. Here, we used a combination of evolution assays in microbial microcosms, mathematical modeling, and novel applications of cell biology tools to close the gap.&lt;/p&gt;
 &lt;p&gt;Our study uncovers that temperature alone does not drive prey rapid evolution unless predators are involved. Additionally, temperature effects on predaotor thermal performance and prey plasticity can both influence the prey evolutionary process. Our results highlight that similar species might show different evolutionary responses to rising temperatures, and that temperature effects on biotic interactions likely play a key role in determining species evolution in warming food webs.
@@ -42,9 +42,9 @@
     
     <item>
       <title>Predator richness and prey genetic diveristy co-determin prey rapid evolution</title>
-      <link>http://localhost:1313/research/pred_rich_gv/</link>
+      <link>http://localhost:64323/research/pred_rich_gv/</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/pred_rich_gv/</guid>
+      <guid>http://localhost:64323/research/pred_rich_gv/</guid>
       <description>&lt;span style=&#34;font-size: smaller;&#34;&gt;
 &lt;p&gt;Ecologists have long been fascinated by variations at different organizational levels. Species-level variation enable evolution and community-level variation, such as species diversity, influence community and food web dynamics. However, the evolutionary implications of variation across trophic levels remain poorly understood. To address this gap, we leveraged a state-of-the-art mutant library of the green alga &lt;em&gt;Chlamydomonas reinhardtii&lt;/em&gt;, comprising thousands of strains with described mutations and unique DNA barcodes, allowing for strain identification and quantification of contemporary changes of gene frequencies (i.e. rapid evolution). We set up tractable microbial foods using these mutants as prey and multiple ciliate protists as predators to ask: how do prey standing genetic variation and predator species richness jointly affect prey evolution at both the genetic and cellular functional level? We manipulated prey genetic variation and predator richness. We used use flow cytometry to track &lt;em&gt;C. reinhardtii&lt;/em&gt; population density and amplicon sequencing to track the mutant strain frequencies.&lt;/p&gt;
 &lt;p&gt;Our preliminary results indicate that genetic diversity increases prey population density regardless of the presence and absence of predators. Predation decreased the additive genetic variation of C. reinhardtii. Contrary to previous research suggesting that complex food webs weaken species interactions and impose less selective pressure, our results revealed that increased food web complexity with high predator richness leads to reduced additive genetic variation, indicating strong selective pressures favoring specific genetic variants and more constrained evolutionary outcome.&lt;/p&gt;
