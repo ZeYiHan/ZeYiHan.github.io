@@ -14,7 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Ze-Yi Han'
-    description: 'Academic website for Ze-Yi Han. Focusing on trait-based ecology, food web ecology, and rapid evolution.'
+    enable: true
+    description: "Ze-Yi Han's academic website. Research in trait-based ecology, food web ecology, and rapid evolution."
   analytics:
     google_analytics: ''
     baidu_tongji: ''
