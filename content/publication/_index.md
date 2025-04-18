@@ -16,7 +16,7 @@ Liu, M., **Z.-Y. Han**, Y. Yuan, K. DeWitt, D. J. Wieczynski, K. M. Yammine, A. 
 Zufall, A. Siepielski, D. Chalker, M. Onishi, F. A. Machado, J. P. Rapid adaptive evolution of microbial thermal performance curves. [Preprint](https://www.biorxiv.org/content/10.1101/2024.04.30.590804v1)
 
 Wieczynski, D. J.,M. M. Giglietti,N. Sortisio, E. Bruscato, A. Goel, L, Tjossem, H. Yao, A.
-Yammine, **Z.-Y.Han**, Y. Yuan, M. Onishi, V. Ciocanel,J. P. Gibert. Gibert. Intraspecific
+Yammine, **Z.-Y. Han**, Y. Yuan, M. Onishi, V. Ciocanel,J. P. Gibert. Gibert. Intraspecific
 reaction norm variation directs eco-evolutionary responses to environmental change. (In
 Review). [Preprint](https://www.authorea.com/users/363526/articles/1222010-intraspecific-reaction-norm-variation-directs-eco-evolutionary-responses-to-environmental-change)
 

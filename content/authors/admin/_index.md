@@ -43,9 +43,9 @@ interests:
 
 ## About Me
 
-I am an ecologist at Duke University working with [Dr. Jean Gibert](https://jeanpgibert.weebly.com/). I am interested in how phenotypic changes within ecological timescales shape species interactions and food web dynamics, as well as species evolutionary trajectories, particularly in the context of global warming. I combine experimental approaches, theoretical modeling, bioinformatics, and data science to understand how organisms traits affect and are affected by the food web they are embeded in.
+I am an ecologist at Duke University working with [Dr. Jean Gibert](https://jeanpgibert.weebly.com/). I am interested in how phenotypic changes within ecological timescales shape species interactions and food web dynamics, as well as species evolutionary trajectories, particularly in the context of global warming. I combine experimental approaches, theoretical modeling, bioinformatics, and data science to understand how organisms traits affect and are affected by the food web they are embedded in.
 
 I received my B.S. in Biology from the College of William & Mary, where I worked with [Dr. Jelena Pantel](https://jhpantel.com/) studying how phenotypic variation within and between species affects competitive interactions.
 
-In additional to science, I am also interested in hiking, paddle boarding, watercolor, and other forms of crafts.
+In addition to science, I am also interested in hiking, paddle boarding, watercolor, and other forms of crafts.
 

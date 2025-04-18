@@ -27,7 +27,7 @@ image:
   preview_only: false
 
 # Summary. An optional shortened abstract.
-summary: Temperature and nutrient disportionally affect different trophic levels, and change the causal effects between body size and population dynamics.
+summary: Temperature and nutrient disproportionally affect different trophic levels, and change the causal effects between body size and population dynamics.
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -38,9 +38,9 @@ summary: Temperature and nutrient disportionally affect different trophic levels
 
 <span style="font-size: smaller;">
 
-Warming and eutrophication are major consequences of global climate change. Their individual effects on single species are well studied. However, it is unclear how temperature and nutrient together affect species body size and abundance across trophic levels. We set up microbial food web under different temperature and nutrient treatments and tracked popoulation abundance and body size of these species over time. We found temperature and nutrient affect different trophic level disportionally, while the joint effects of temperature and nutrient more strongly affect higher trophic levels. 
+Warming and eutrophication are major consequences of global climate change. Their individual effects on single species are well studied. However, it is unclear how temperature and nutrient together affect species body size and abundance across trophic levels. We set up microbial food web under different temperature and nutrient treatments and tracked population abundance and body size of these species over time. We found temperature and nutrient affect different trophic level disportionally, while the joint effects of temperature and nutrient more strongly affect higher trophic levels. 
 
-We also found that body size can causally drive species population dynamics, using Convergent Cross Mapping on the time series of species population abundance and body size. Temperature and nutrient affect the presence and strength of these causal relationships between body size and population dynamcis within and between species. Our research highlight the importance of incorporate phenotypic dynamics in future studies of food web responses to warming and eutrophication in a changing world. 
+We also found that body size can causally drive species population dynamics, using Convergent Cross Mapping on the time series of species population abundance and body size. Temperature and nutrient affect the presence and strength of these causal relationships between body size and population dynamics within and between species. Our research highlight the importance of incorporate phenotypic dynamics in future studies of food web responses to warming and eutrophication in a changing world. 
 </span>
 
 <div style="width: 80%; margin: auto;">
