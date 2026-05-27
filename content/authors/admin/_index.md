@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Ze-Yi Han Ph.D.
+title: Ze-Yi Han
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Ze-Yi
-last_name: Han
+last_name: Han Ph.D.
 
 # Is this the primary user of the site?
 superuser: true
