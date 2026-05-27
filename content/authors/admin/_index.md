@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ze-Yi Han
+title: Ze-Yi Han Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D.
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
